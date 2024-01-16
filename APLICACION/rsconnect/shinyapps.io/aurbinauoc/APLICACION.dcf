@@ -5,7 +5,7 @@ account: aurbinauoc
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10932177
-bundleId: 8146945
+bundleId: 8150490
 url: https://aurbinauoc.shinyapps.io/APLICACION/
 version: 1
 asMultiple: FALSE
